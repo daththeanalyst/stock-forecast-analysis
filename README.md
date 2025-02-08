@@ -232,11 +232,7 @@ git remote add origin https://github.com/YourUsername/stock-forecast-analysis.gi
 Then push your changes:
 
 ```
-git push -u origin master
+git push -u origin main
 
 ```
 
-*(Replace `master` with `main` if your default branch is named "main.")*
-------------------------------------------------------------------------
-
-This plain text version contains all the content and formatting instructions in Markdown. You can now use it in your markdown converter or paste it directly into your `README.md` file.
