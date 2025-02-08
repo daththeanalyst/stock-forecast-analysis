@@ -1,5 +1,3 @@
-Below is the complete README content in plain text with Markdown formatting. You can copy all of this text into a Markdown converter or directly into your `README.md` file. (Make sure to replace any placeholder text such as `YourUsername`, `Your Name`, or `your.email@example.com` with your actual details.) Also note that an evaluation graph is generated during model evaluation; you can paste that image into your README later.
-
 * * * * *
 
 Stock Forecast Analysis
